@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <h4 align="center"> Techs that I've used at least once</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Javalogo&Color=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=Bashlogo&Color=white"/></a>&nbsp
-  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GNUBash-4EAA25?style=flat-square&logo=GNUBash&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>&nbsp 
