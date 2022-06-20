@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **D0ri123/D0ri123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">💻 Tech Stack 💻</h3>
+<h4 align="center"> Techs that I've used at least once</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Javalogo&Color=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=Bashlogo&Color=white"/></a>&nbsp
+  
