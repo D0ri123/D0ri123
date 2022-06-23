@@ -1,5 +1,5 @@
 ### Hi there 👋 
-
+⛑git 프로필 공사중⛑
 <!--
 **D0ri123/D0ri123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Seori's GitHub stats](https://github-readme-stats.vercel.app/api?username=D0ri123&show_icons=true&theme=tokyonight)](https://github.com/D0ri123/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0ri123&layout=compact)](https://github.com/D0ri123/github-readme-stats)
 </div>
   
 
