@@ -25,7 +25,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>&nbsp 
 
-
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+  
 [![Seori's GitHub stats](https://github-readme-stats.vercel.app/api?username=D0ri123&show_icons=true&theme=tokyonight)](https://github.com/D0ri123/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0ri123&layout=compact)](https://github.com/D0ri123/github-readme-stats)
+</div>
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0ri123&layout=compact)](https://github.com/D0ri123/github-readme-stats)
