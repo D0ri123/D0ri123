@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
   
-[![Seori's GitHub stats](https://github-readme-stats.vercel.app/api?username=D0ri123&show_icons=true&theme=tokyonight)](https://github.com/D0ri123/github-readme-stats)
+[![Seori's GitHub stats](https://github-readme-stats.vercel.app/api?username=D0ri123&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/D0ri123/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D0ri123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
-  
+
+
 
