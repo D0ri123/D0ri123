@@ -30,14 +30,5 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp 
-  
-
-<h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="left">
-  
-[![Seori's GitHub stats](https://github-readme-stats.vercel.app/api?username=D0ri123&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/D0ri123/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D0ri123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-</div>
-
 
 
