@@ -1,7 +1,29 @@
 ### 이설희 | 지속적인 발전을 추구하는 개발자
 
 “지속 가능한 코드를 추구하며 지속적으로 성장하기 위해 도전하는 백엔드 개발자, 이설희입니다.”
-<h3 align="left">💻 Tech Stack 💻</h3> 
+
+---
+<h3 align="left">👩‍💻 Career</h3> 
+
+##### 2023.12~ 트리노드 포코포코 서버파트
+
+
+---
+<h3 align="left">🏃‍♀️ Activity</h3>
+
+##### 2023.01 ~ 2023.08 전국연합 IT 비영리 단체, DND 8기/9기 참여
+##### 2023.06 서울경제진흥원, 구름 주관 새싹톤 본선 진출
+##### 2023.07 ~ 2023.12 컨트리뷰션 아카데미, FOSSLight Hub 컨트리뷰터 활동
+##### 2023.12 공개SW 개발자 대회 참여
+
+---
+<h3 align="left">🎖️ Award</h3>
+
+##### 컨트리뷰션 아카데미 특별상 수상
+##### 공개SW 개발자 대회 은상 수상
+
+---
+<h3 align="left">💻 Tech Stack </h3> 
 <h4 align="left"> Usable Language </h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
