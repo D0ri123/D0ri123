@@ -32,6 +32,7 @@
 
 <h4 align="left"> Backend </h4>
 <p align="left">
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=Gin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp 
